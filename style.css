@@ -1,0 +1,22 @@
+.mainheading, .headings{
+    text-align: center;
+    font-weight: bold
+}
+.mainheading{
+    font-size: 28px;
+}
+.headings {
+    font-size: 25px;
+}
+
+body{
+    font-family: "Times New Roman", serif;
+    background-color: grey;
+}
+ul,ol{
+    text-align: center;
+}
+#cake img{
+    height: 100;
+    width: auto;
+}
